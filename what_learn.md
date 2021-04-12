@@ -213,3 +213,6 @@ Click Hare for Details in Visual :arrow_down:
     </summary>
 <p> <img align="center" src="0002.jpg" width="100%" /></p>
     </details>
+ <div align="center">
+    <img src="https://github.com/srnvry/Resume/blob/f6e154463a9ae849713abbdce39d167e06a808e8/footer.png" alt="srnvry" width="100%"/>
+</div>
