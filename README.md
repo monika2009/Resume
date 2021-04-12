@@ -20,7 +20,6 @@
 - ⚡ Fun fact **Enjoy Every Moments**
 
 ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/s_rnvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="s_rnvr" height="30" width="40" /></a>
@@ -28,7 +27,6 @@
 <a href="https://fb.com/srnvry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="srnvry" height="30" width="40" /></a>
 <a href="https://instagram.com/rnvry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rnvry" height="30" width="40" /></a>
 </p>
-<br>
 
 ---
 
@@ -208,6 +206,10 @@ deployment under **_Mr. Vimal Daga_**.
 ---
 
 ##### _Hey 👋 Are You Intrested To Know More About My Hobbies? Let Me Explore_ [Click_Hare](https://github.com/srnvry/test/blob/fb61e9ab1c07cdf67abbd58ce7da4049b70ee734/Pession.md)
+
+### Q&A
+- What did you learn from readme? [Click_Hare](https://github.com/srnvry/Resume/blob/e27327ea8567b852ee57307faf20c74114916861/what_learn.md)
+- What did you like in your readme? [Click_Hare](https://github.com/srnvry/Resume/blob/e27327ea8567b852ee57307faf20c74114916861/what_like.md)
 
 ---
 
