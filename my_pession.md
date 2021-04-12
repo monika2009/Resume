@@ -30,6 +30,23 @@ _When it comes to be a biker, there is something more than doing the actual ridi
 - The Joy that I get when I make my way correctly to my destination even after losing my track in between.
 - The Joy that I get when some unknown people appreciate me for offering them a lift on time.
 
+## My Ride
+### Total = 1
+_**Gurgaon To Jaipur**_
+
+# _Some moments cant be explained by words 🙂 The real joy of it cant be felt unless you experience it on your own_
+<p> <img align="center" src="wp4199747.jpg" width="90%" /></p>
+
+## So, Get Set-Turn on the IGNITION-Hold on the CLUTCH-Press the GEAR and Pump the THROTTLE.We have much more to Explore
+
+<br>
+
+### About my Driving
+
+- My Driving top speed 160km/h
+- I can handle my bike in any situation till 150km/h speed
+- My avrage speed 70km/h to 85km/h
+
 
 <div align="center">
     <img src="https://github.com/srnvry/Resume/blob/f6e154463a9ae849713abbdce39d167e06a808e8/footer.png" alt="srnvry" width="100%"/>
