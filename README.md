@@ -96,7 +96,7 @@ Click Hare
 <li>Monitor and test network performance and security</li>
 
 </details>
-<details> 
+<details align="right">
   <summary> 
 Click Hare
     </summary>
