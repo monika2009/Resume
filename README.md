@@ -106,6 +106,7 @@ Click Hare for Details in Text :arrow_down:
   <summary> 
 Click Hare for Details in Visual :arrow_down:
     </summary>
+    
 ---    
     
 <h4 align="right">Programming Languages</h4>
