@@ -189,10 +189,10 @@ deployment under **_Mr. Vimal Daga_**.
 ---
 
 ## PERSONAL SKILLS
-- Good communication skills
-- Ability to work in a team
-- Adaptability
-- Sincere, disciplined & honest
+- *Good communication skills*
+- *Ability to work in a team*
+- *Adaptability*
+- *Sincere, disciplined & honest*
 
 ---
 
