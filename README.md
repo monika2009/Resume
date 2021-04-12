@@ -206,7 +206,7 @@ deployment under **_Mr. Vimal Daga_**.
 
 ---
 
-##### _Hey 👋 Are You Intrested To Know More About My Hobbies? Let Me Explore_ [Click_Hare](https://github.com/srnvry/test/blob/fb61e9ab1c07cdf67abbd58ce7da4049b70ee734/Pession.md)
+##### _Hey 👋 Are You Intrested To Know More About My Hobbies? Let Me Explore_:smile: [Click_Hare](https://github.com/srnvry/test/blob/fb61e9ab1c07cdf67abbd58ce7da4049b70ee734/Pession.md)
 
 ### Q&A
 - What did you learn from readme? [Click_Hare](https://github.com/srnvry/Resume/blob/e27327ea8567b852ee57307faf20c74114916861/what_learn.md)
@@ -214,9 +214,7 @@ deployment under **_Mr. Vimal Daga_**.
 
 ---
 
-
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srnvry&" alt="srnvry" /></p>
-
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srnvry&" width="40%" alt="srnvry" /><img src="https://github-readme-stats.vercel.app/api?username=srnvry&theme=dracula" width="50%" /></p>
  <div align="center">
     <img src="https://github.com/srnvry/Resume/blob/f6e154463a9ae849713abbdce39d167e06a808e8/footer.png" alt="srnvry" width="100%"/>
 </div>
