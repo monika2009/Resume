@@ -184,10 +184,6 @@ deployment under **_Mr. Vimal Daga_**.
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srnvry&label=Profile%20views&color=0e75b6&style=flat" alt="srnvry" /> <img src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" alt="srnvry" /> </p>
-
----
-
 ## PERSONAL SKILLS
 - *Good communication skills*
 - *Ability to work in a team*
