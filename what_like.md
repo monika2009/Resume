@@ -14,7 +14,7 @@
 - _Looking good_
 - _No need to find other link to see other information_
 - _badges and icon are workable and all are showing right information_
-- _Flow chart is there to help to understand things easly _
+- _Flow chart is there to help to understand things easly_
 - _Also image and icon are there to understand if you are a visual viewer_
 
 <div align="center">
