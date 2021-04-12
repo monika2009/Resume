@@ -217,6 +217,7 @@ Click Hare for Details in Visual :arrow_down:
 ### Important Link
 - [Git Documentation](https://git-scm.com/doc)
 - [Git Book](https://git-scm.com/book/en/v2)
+- [Git Book Direct Download](https://github.com/progit/progit2/releases/download/2.1.300/progit.pdf)
 
 
  <div align="center">
