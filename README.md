@@ -114,6 +114,7 @@ Click Hare
 <h4 align="left">Others:</h4>
 <p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.openshift.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/> </a> <a href="https://ceph.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ceph/ceph-icon.svg" alt="chef" width="40" height="40"/> </a> </p>
 </details>
+
 ---
 
 <h3 align="left">📕 Certifications</h3>
@@ -132,6 +133,8 @@ Click Hare
 Click Hare
     </summary>
 
+---
+
 **Certification Number: 180-065-252**
 
 - **_Red Hat Certified Engineer_**
@@ -140,19 +143,25 @@ Click Hare
 </details> 
 
 </p>
-<h3 align="left">Skills:</h3>
 
+---
 
-<h4 align="left">My Projects:</h4>
+## My Projects
 
 - 🔭 Deployment of HCI based Multinode Openstack using Kolla-ansible.
 - 🔭 Deployment of Thin LVM based ISCSI server for sharing more disk over network than available.
 - 🔭 Configured Centralized logging server using rsyslog.
 - 🔭 Deployment of Openstack which have multiple cinder backed like LVMs and Ceph. Also checked cinder Volumes/data into the ceph backend/cluster.
 
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srnvry&label=Profile%20views&color=0e75b6&style=flat" alt="srnvry" /> <img src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" alt="srnvry" /> </p>
 
+---
+
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srnvry&" alt="srnvry" /></p>
+
+---
 
 <p>
 <a href="https://github.com/srnvry/Resume/blob/f6e154463a9ae849713abbdce39d167e06a808e8/footer.png" alt="_blank"
