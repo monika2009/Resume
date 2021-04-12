@@ -5,6 +5,25 @@
 
 <h1 align="center">Hi 👋, I'm Ranveer Singh</h1>
 
+## Table of Content
+- [What I Learn ?](#What_I_Learn_?)
+- [What’s a version control system?](#What’s_a_version_control_system?)
+- [What’s a distributed version control system?](#What’s_a_distributed_version_control_system?)
+- [Why Git?](#Why_Git)
+- [What’s a repository?](#What’s_a_repository)
+- [How GitHub fits in ?](#How_GitHub_fits_in_?)
+- [How GitHub works ?](#How_GitHub_works_?)
+- [The GitHub flow ?](#The_GitHub_flow_?)
+- [Install](#Install)
+   - [Configure tooling](#Configure_tooling)
+   - [Create repositories](#Create_repositories)
+   - [The .gitignore file](#The_.gitignore_file)
+   - [Make changes](#Make_changes)
+   - [Redo commits](#Redo_commits)
+   - [Glossary](#Glossary)
+- [GIT_CHEET_SHEET](#GIT_CHEET_SHEET)
+- [Important link](#Important_link)
+ 
 ## _What I Learn ?_
 
 ### What’s a version control system?
@@ -168,3 +187,29 @@ Undoes all commits after [commit], preserving changes locally
 $ git reset --hard [commit]
 ```
 Discards all history and changes back to the specified commit ``` CAUTION! Changing history can have nasty side effects. If you need to change commits that exist on GitHub (the remote), proceed with caution. ```
+
+### Glossary
+- **git:** an open source, distributed version-control system
+- **GitHub:** a platform for hosting and collaborating on Git repositories
+- **commit:** a Git object, a snapshot of your entire repository compressed into a SHA
+- **branch:** a lightweight movable pointer to a commit
+- **clone:** a local version of a repository, including all commits and branches
+- **remote:** a common repository on GitHub that all team members use to exchange their changes
+- **fork:** a copy of a repository on GitHub owned by a different user
+- **pull request:** a place to compare and discuss the differences introduced on a branch with reviews, comments, integrated tests, and more
+- **HEAD:** representing your current working directory, the HEAD pointer can be moved to different branches, tags, or commits when using git checkout
+
+### GIT_CHEET_SHEET
+
+<details align="left">
+  <summary> 
+Click Hare for Details in Visual :arrow_down:
+    </summary>
+<p> <img align="center" src="0001.jpg" width="100%" /></p>
+</details>
+<details align="left">
+  <summary> 
+Click Hare for Details in Visual :arrow_down:
+    </summary>
+<p> <img align="center" src="0002.jpg" width="100%" /></p>
+    </details>
