@@ -48,6 +48,9 @@ Want to Be Associate with an excellent working atmosphere, organization and will
   <summary> 
 Click Hare for Details :arrow_down:
     </summary>
+
+---
+
 <ul><li>Server monitoring on Openstack Linux server which includes CPU Utilization</ul></li>
 <ul><li>Working Shell Scripts for Automation of Tasks</ul></li>
 <ul><li>Maintaining File Systems</ul></li>
@@ -66,6 +69,8 @@ Click Hare for Details :arrow_down:
 <ul><li>Security Updates, ACL, LUKS</ul></li>
 <ul><li>Configure DNS DHCP SMTP MySQL server in the test environment</ul></li>
 <ul><li>Share the storage through NFS</ul></li>
+
+---
 
 </details>
 
@@ -95,12 +100,16 @@ Click Hare for Details in Text :arrow_down:
   <ul>HA Proxy</ul>
 <li>Monitor and test network performance and security</li>
 
+---
+
 </details>
 <details align="right">
   <summary> 
 Click Hare for Details in Visual :arrow_down:
     </summary>
-    <h4 align="right">Programming Languages</h4>
+---    
+    
+<h4 align="right">Programming Languages</h4>
 <p align="right"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h4 align="right">Monitoring Tools</h4>
@@ -113,6 +122,9 @@ Click Hare for Details in Visual :arrow_down:
 
 <h4 align="right">Others</h4>
 <p align="right"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.openshift.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/> </a> <a href="https://ceph.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ceph/ceph-icon.svg" alt="chef" width="40" height="40"/> </a> </p>
+
+---
+
 </details>
 
 ---
