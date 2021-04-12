@@ -69,11 +69,12 @@ Want to Be Associate with an excellent working atmosphere, organization and will
 
 <h3 align="left">📕 Certifications</h3>
 <p align="left">
- **Certification Number: 180-065-252**
+    
+**Certification Number: 180-065-252**
 
-**_Red Hat Certified System Administrator In Red Hat OpenStack
-Red Hat Certified Engineer
-Red Hat Certified System Administrator_**
+- **_Red Hat Certified System Administrator In Red Hat OpenStack_**
+- **_Red Hat Certified Engineer_**
+- **_Red Hat Certified System Administrator_**
 <a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ="><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/3.png" alt="Red Hat Certified Engineer"
    title="Red Hat Certified Engineer" width="15%" /> </a> 
 <a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3YBRY5HRN67XMD6X5VFP7ULSUKWW2HMIDYOMU6FAH2SEJXEIJCF5Y="><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/2.png" alt="Red Hat Certified System Administrator in Red Hat OpenStack"
