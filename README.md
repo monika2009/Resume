@@ -41,8 +41,10 @@ Want to Be Associate with an excellent working atmosphere, organization and will
 
 ## SKILLS
 ### SKILLS IN LINUX
-<details>
-  <summary></summary>
+<details> 
+  <summary> 
+Click Hare
+    </summary>
 <ul><li>Server monitoring on Openstack Linux server which includes CPU Utilization</ul></li>
 <ul><li>Working Shell Scripts for Automation of Tasks</ul></li>
 <ul><li>Maintaining File Systems</ul></li>
@@ -74,11 +76,11 @@ Want to Be Associate with an excellent working atmosphere, organization and will
 - Monitoring Tool
   - Grafana 
   - Prometheus 
-- Monitor and test network performance and security
 - HA Cluster, 
   - Openstack 
 - load balancing
   - HA Proxy
+- Monitor and test network performance and security
 
 <h3 align="left">📕 Certifications</h3>
 <p align="left">
