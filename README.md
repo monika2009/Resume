@@ -188,6 +188,14 @@ deployment under **_Mr. Vimal Daga_**.
 
 ---
 
+## PERSONAL SKILLS
+- Good communication skills
+- Ability to work in a team
+- Adaptability
+- Sincere, disciplined & honest
+
+---
+
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srnvry&" alt="srnvry" /></p>
 
 ---
