@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ranveer Singh</h1>
 <h3 align="center">A Linux Developers from India</h3>
 
-- 🔭 I’m currently working on **Openstack**
+- 🔭 I’m currently working on **Openstack**  
 
 - 🌱 I’m currently learning  **Openshift**
 
@@ -27,6 +27,13 @@
 <a href="https://instagram.com/rnvry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rnvry" height="30" width="40" /></a>
 </p>
 <br>
+
+### Career Objective
+
+
+Want to Be Associate with an excellent working atmosphere, organization and will be dedicated to the company’s interest. Believe strongly in the concept of work through positive motivation. Career planning consists of the effective implementation of given tasks and responsibilities.
+
+
 <h3 align="left">📕 Certifications</h3>
 <p align="left">
 <a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ="><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/3.png" alt="Red Hat Certified Engineer"
