@@ -33,9 +33,47 @@
 
 Want to Be Associate with an excellent working atmosphere, organization and will be dedicated to the company’s interest. Believe strongly in the concept of work through positive motivation. Career planning consists of the effective implementation of given tasks and responsibilities.
 
+### SKILLS IN LINUX
+- Server monitoring on Openstack Linux server which includes CPU Utilization
+- Working Shell Scripts for Automation of Tasks
+- Maintaining File Systems
+- Maintaining infrastructure optimal up-time 
+- Server Upgrades
+- User authntication by LDAP Server
+- OS patching skills on Linux
+- Support experience on Logical Volume Manager (LVM)
+- Advance storage (thin Provisioning)
+- Strong knowledge on RHEL 7/8
+- Debug/troubleshoot memory issues
+- Good knowledge about the rhel7/8 system files, boot process, and Run levels
+- General System Administration expertise
+- Hands-on experience of system management, system setup, and managing Linux or
+- servers as well as configuring them.
+- Centralized Logging Server, Iptables, / NF Table
+- Security Updates, ACL, LUKS
+- Configure DNS DHCP SMTP MySQL server in the test environment
+- Share the storage through NFS
+### DevOps
+- Ansible automation
+- Container
+  - Docker
+  - Podman
+- Monitoring Tool
+  - Grafana 
+  - Prometheus 
+- Monitor and test network performance and security
+- HA Cluster, 
+  - Openstack 
+- load balancing
+  - HA Proxy
 
 <h3 align="left">📕 Certifications</h3>
 <p align="left">
+ **Certification Number: 180-065-252**
+
+**_Red Hat Certified System Administrator In Red Hat OpenStack
+Red Hat Certified Engineer
+Red Hat Certified System Administrator_**
 <a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ="><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/3.png" alt="Red Hat Certified Engineer"
    title="Red Hat Certified Engineer" width="15%" /> </a> 
 <a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3YBRY5HRN67XMD6X5VFP7ULSUKWW2HMIDYOMU6FAH2SEJXEIJCF5Y="><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/2.png" alt="Red Hat Certified System Administrator in Red Hat OpenStack"
