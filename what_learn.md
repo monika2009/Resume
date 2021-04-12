@@ -215,8 +215,8 @@ Click Hare for Details in Visual :arrow_down:
     </details>
     
 ### Important Link
-- [Git Documentation](#https://git-scm.com/doc)
-- [Git Book](#https://git-scm.com/book/en/v2)
+- [Git Documentation](https://git-scm.com/doc)
+- [Git Book](https://git-scm.com/book/en/v2)
 
 
  <div align="center">
