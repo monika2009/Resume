@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **Enjoy Every Moments**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/s_rnvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="s_rnvr" height="30" width="40" /></a>
@@ -28,31 +30,42 @@
 </p>
 <br>
 
-### Career Objective
+---
+
+## Career Objective
 
 
 Want to Be Associate with an excellent working atmosphere, organization and will be dedicated to the company’s interest. Believe strongly in the concept of work through positive motivation. Career planning consists of the effective implementation of given tasks and responsibilities.
 
+---
+
+## SKILLS
 ### SKILLS IN LINUX
-- Server monitoring on Openstack Linux server which includes CPU Utilization
-- Working Shell Scripts for Automation of Tasks
-- Maintaining File Systems
-- Maintaining infrastructure optimal up-time 
-- Server Upgrades
-- User authntication by LDAP Server
-- OS patching skills on Linux
-- Support experience on Logical Volume Manager (LVM)
-- Advance storage (thin Provisioning)
-- Strong knowledge on RHEL 7/8
-- Debug/troubleshoot memory issues
-- Good knowledge about the rhel7/8 system files, boot process, and Run levels
-- General System Administration expertise
-- Hands-on experience of system management, system setup, and managing Linux or
-- servers as well as configuring them.
-- Centralized Logging Server, Iptables, / NF Table
-- Security Updates, ACL, LUKS
-- Configure DNS DHCP SMTP MySQL server in the test environment
-- Share the storage through NFS
+<details>
+  <summary></summary>
+<ul><li>Server monitoring on Openstack Linux server which includes CPU Utilization</ul></li>
+<ul><li>Working Shell Scripts for Automation of Tasks</ul></li>
+<ul><li>Maintaining File Systems</ul></li>
+<ul><li>Maintaining infrastructure optimal up-time</ul></li>
+<ul><li>Server Upgrades</ul></li>
+<ul><li>User authntication by LDAP Server</ul></li>
+<ul><li>OS patching skills on Linux</ul></li>
+<ul><li>Support experience on Logical Volume Manager (LVM)</ul></li>
+<ul><li>Advance storage (thin Provisioning)</ul></li>
+<ul><li>Strong knowledge on RHEL 7/8</ul></li>
+<ul><li>Debug/troubleshoot memory issues</ul></li>
+<ul><li>Good knowledge about the rhel7/8 system files, boot process, and Run levels</ul></li>
+<ul><li>General System Administration expertise</ul></li>
+<ul><li>Hands-on experience of system management, system setup, and managing Linux or servers as well as configuring them.</ul></li>
+<ul><li>Centralized Logging Server, Iptables, / NF Table</ul></li>
+<ul><li>Security Updates, ACL, LUKS</ul></li>
+<ul><li>Configure DNS DHCP SMTP MySQL server in the test environment</ul></li>
+<ul><li>Share the storage through NFS</ul></li>
+
+</details>
+
+---
+
 ### DevOps
 - Ansible automation
 - Container
