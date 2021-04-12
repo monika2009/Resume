@@ -46,6 +46,7 @@ _**Gurgaon To Jaipur**_
 - My Driving top speed 160km/h
 - I can handle my bike in any situation till 150km/h speed
 - My avrage speed 70km/h to 85km/h
+- Always follow the trafic rule.
 
 
 <div align="center">
