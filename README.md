@@ -203,11 +203,11 @@ deployment under **_Mr. Vimal Daga_**.
 
 ---
 
-##### _Hey 👋 Are You Intrested To Know More About My Hobbies? Let Me Explore_:smile: [Click_Hare](https://github.com/srnvry/test/blob/fb61e9ab1c07cdf67abbd58ce7da4049b70ee734/Pession.md)
+##### _Hey 👋 Are You Intrested To Know More About My Hobbies? Let Me Explore_:smile: [Click_Hare](my_pession.md)
 
 ### Q&A
 - What did you learn from readme? [Click_Hare](what_learn.md)
-- What did you like in your readme? [Click_Hare](https://github.com/srnvry/Resume/blob/e27327ea8567b852ee57307faf20c74114916861/what_like.md)
+- What did you like in your readme? [Click_Hare](what_like.md)
 
 ---
 
