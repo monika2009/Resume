@@ -207,7 +207,7 @@ deployment under **_Mr. Vimal Daga_**.
 
 ### Q&A
 - What did I learn from readme? [Click_Hare](what_learn.md)
-- What did I like in your readme? [Click_Hare](what_like.md)
+- What did I like in my readme? [Click_Hare](what_like.md)
 
 ---
 
