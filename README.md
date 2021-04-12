@@ -69,18 +69,27 @@ Click Hare
 ---
 
 ### DevOps
-- Ansible automation
-- Container
-  - Docker
-  - Podman
-- Monitoring Tool
-  - Grafana 
-  - Prometheus 
-- HA Cluster, 
-  - Openstack 
-- load balancing
-  - HA Proxy
-- Monitor and test network performance and security
+
+<p align="right"> <a href="https://github.com/srnvry/Resume/blob/02bf4d2b254e5f3aa861a9ecc1dab766895af4c9/aaa%20(1).png" target="_blank"> <img src="https://github.com/srnvry/Resume/blob/02bf4d2b254e5f3aa861a9ecc1dab766895af4c9/aaa%20(1).png" alt="_blank" width="66%" height="45%"/> </a> 
+    </p>
+<details> 
+  <summary> 
+Click Hare
+    </summary>
+<li>Ansible automation</li>
+<li>Container</li>
+    <ul>Docker</ul>
+    <ul>Podman</ul>
+<li>Monitoring Tool</li>
+    <ul>Grafana</ul>
+    <ul>Prometheus</ul>
+<li>HA Cluster</li>
+  <ul>Openstack</ul>
+<li>load balancing</li>
+  <ul>HA Proxy</ul>
+<li>Monitor and test network performance and security</li>
+
+</details>
 
 <h3 align="left">📕 Certifications</h3>
 <p align="left">
