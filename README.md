@@ -158,6 +158,23 @@ Click Hare for Details :arrow_down:
 
 ---
 
+
+## INTERNSHIP
+### *FOSTERing Linux, Gurugram*
+#### *Role: Trainee (RHCSA, RHCE)*
+- Gained depth knowledge of Red Hat Linux, Installation with Kickstart, Networking,
+User Management, Permissions, Partitions, LVM, KVM, Servers and Security (FTP,
+SSH, DNS, NFS, LDAP, Samba, ISCSI, MariaDB, Apache Web server etc.) under
+**_Mr. Amit Saxena_** Chief Technical Officer at Fostering Linux, Gurugram .
+### *Linux World, Jaipur*
+#### *Role: Trainee (RHOSP- CL210)*
+- Gained depth knowledge of Red Hat Linux, OpenStack deployment using Packstack,
+Devstack, kola-Ansible , Basics of Openstack services, Openstack Cloud
+Administration, Managing Stack, Basics of Undercloud-Overcloud and RHOSP
+deployment under **_Mr. Vimal Daga_**.
+
+--- 
+
 ## My Projects
 
 - 🔭 Deployment of HCI based Multinode Openstack using Kolla-ansible.
