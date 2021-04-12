@@ -214,7 +214,7 @@ deployment under **_Mr. Vimal Daga_**.
 
 ---
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=srnvry&theme=dracula" width="62" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=srnvry&theme=dracula" width="62%" /></p>
  <div align="center">
     <img src="https://github.com/srnvry/Resume/blob/f6e154463a9ae849713abbdce39d167e06a808e8/footer.png" alt="srnvry" width="100%"/>
 </div>
