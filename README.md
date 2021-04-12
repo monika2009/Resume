@@ -40,6 +40,9 @@ Want to Be Associate with an excellent working atmosphere, organization and will
 ---
 
 ## SKILLS
+
+---
+
 ### SKILLS IN LINUX
 <details> 
   <summary> 
@@ -76,6 +79,9 @@ Click Hare
   <summary> 
 Click Hare
     </summary>
+
+---
+
 <li>Ansible automation</li>
 <li>Container</li>
     <ul>Docker</ul>
@@ -91,21 +97,32 @@ Click Hare
 
 </details>
 
+---
+
 <h3 align="left">📕 Certifications</h3>
 <p align="left">
-    
-**Certification Number: 180-065-252**
 
-- **_Red Hat Certified Engineer_**
-- **_Red Hat Certified System Administrator In Red Hat OpenStack_**
-- **_Red Hat Certified System Administrator_**
-<br>
+---
+
 <a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ="><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/3.png" alt="Red Hat Certified Engineer"
    title="Red Hat Certified Engineer" width="15%" /> </a> 
 <a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3YBRY5HRN67XMD6X5VFP7ULSUKWW2HMIDYOMU6FAH2SEJXEIJCF5Y="><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/2.png" alt="Red Hat Certified System Administrator in Red Hat OpenStack"
    title="Red Hat Certified System Administrator in Red Hat OpenStack" width="15%" /> </a>
 <a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="><img src="https://github.com/srnvry/Resume/blob/c6a95b0c0985c874fdc83aadbbfa936feb0a6326/4.png" alt="Red Hat Certified System Administrator"
    title="Red Hat Certified System Administrator" width="15%" /> </a> 
+
+<details> 
+  <summary> 
+Click Hare
+    </summary>
+
+**Certification Number: 180-065-252**
+
+- **_Red Hat Certified Engineer_**
+- **_Red Hat Certified System Administrator In Red Hat OpenStack_**
+- **_Red Hat Certified System Administrator_**
+</details> 
+
 </p>
 <h3 align="left">Skills:</h3>
 <h4 align="left">Programming Languages:</h4>
